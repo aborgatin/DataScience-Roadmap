@@ -92,15 +92,20 @@ My roadmap to study Data Science.
 | --- | :---: | :---: |
 | Learning Elastic Stack 7.0 | Pranav Shukla, Sharath Kumar M N | To Do |
 | Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | To Do |
+| Эффективный Spark. Масштабирование и оптимизация | Рейчел Уоррен, Холден Карау | To Do |
+| Семь баз данных за семь недель| Эрик Редмонд, Джим Р. Уилсон | To Do |
 
 ### Cloud
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [ACloudGuru](https://learn.acloud.guru/course/aws-certified-developer-associate/overview) | AWS Certified Developer - Associate 2020 | To Do |
+| [ACloudGuru](https://learn.acloud.guru/course/gcp-certified-associate-cloud-engineer/overview) Google Certified Associate Cloud Engineer 2020 | | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | To Do |
+|
 
 ### Virtualization
 #### Courses
