@@ -78,7 +78,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Udemy](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/) | Apache Airflow: The Hands-On Guide | *In progress* |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | To Do |
+| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | *In progress* |
 | NewProLab | Apache Spark для задач анализа данных | To Do |
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
