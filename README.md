@@ -56,6 +56,68 @@ My roadmap to study Data Science.
 | Карьера программиста | Гэйл Лакман Макдауэлл | To Do |
 | Совершенный алгоритм. Основы | Тим Рафгарден | To Do |
 
+## Data Engineering
+### SQL
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | To Do |
+| [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
+| [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
+| [DataCamp](https://www.datacamp.com/career-tracks/data-analyst-with-sql-server) | Data Analyst with SQL Server | To Do |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-business-analysts) | SQL for Business Analysts | To Do |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-database-administrators) | SQL for Database Administrators | To Do |
+| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | To Do |
+| [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | To Do |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-server-for-database-administrators) | SQL Server for Database Administrators | To Do |
+| [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
+| [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
+
+### Big Data
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Udemy](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/) | Apache Airflow: The Hands-On Guide | *In progress* |
+| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | *In progress* |
+| NewProLab | Apache Spark для задач анализа данных | To Do |
+| [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
+| [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
+| [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
+| [Udemy](https://www.udemy.com/cart/success/294215128/) | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! | To Do |
+| [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning | To Do |
+| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | To Do |
+| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Learning Elastic Stack 7.0 | Pranav Shukla, Sharath Kumar M N | To Do |
+| Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | To Do |
+| Эффективный Spark. Масштабирование и оптимизация | Рейчел Уоррен, Холден Карау | To Do |
+| Семь баз данных за семь недель| Эрик Редмонд, Джим Р. Уилсон | To Do |
+
+### Cloud
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [ACloudGuru](https://learn.acloud.guru/course/aws-certified-developer-associate/overview) | AWS Certified Developer - Associate 2020 | To Do |
+| [ACloudGuru](https://learn.acloud.guru/course/gcp-certified-associate-cloud-engineer/overview) Google Certified Associate Cloud Engineer 2020 | | To Do |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | To Do |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
+| [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | To Do |
+|
+
+### Virtualization
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | Introduction to Containers: Docker, Kubernetes & OpenShift| To Do |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Использование Docker | Эдриен Моуэт | To Do |
+
+
 ## Machine Learning
 ### Fundamentals
 #### Courses
@@ -123,60 +185,6 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generative Adversarial Networks (GANs) Specialization | To Do |
 ### Reinforcement Learning
 
-## Data Engineering
-### SQL
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | To Do |
-| [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
-| [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
-| [DataCamp](https://www.datacamp.com/career-tracks/data-analyst-with-sql-server) | Data Analyst with SQL Server | To Do |
-| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-business-analysts) | SQL for Business Analysts | To Do |
-| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-database-administrators) | SQL for Database Administrators | To Do |
-| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | To Do |
-| [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | To Do |
-| [DataCamp](https://www.datacamp.com/skill-tracks/sql-server-for-database-administrators) | SQL Server for Database Administrators | To Do |
-| [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
-| [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
-
-### Big Data
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | To Do |
-| NewProLab | Apache Spark для задач анализа данных | To Do |
-| [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
-| [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
-| [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
-| [Udemy](https://www.udemy.com/cart/success/294215128/) | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! | To Do |
-| [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning | To Do |
-| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | To Do |
-| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| Learning Elastic Stack 7.0 | Pranav Shukla, Sharath Kumar M N | To Do |
-| Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | To Do |
-
-### Cloud
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | To Do |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
-| [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | To Do |
-
-### Virtualization
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | Introduction to Containers: Docker, Kubernetes & OpenShift| To Do |
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| Использование Docker | Эдриен Моуэт | To Do |
 
 ## Mathematics
 ### Linear Algebra & Discrete mathematics
